@@ -1,0 +1,7 @@
+#surefire_0
+#Sat Mar 13 14:32:18 ICT 2021
+basedir=C\:\\Users\\anif\\eclipse-workspace\\fullstack-automation
+environment=prod
+user.dir=C\:\\Users\\anif\\eclipse-workspace\\fullstack-automation
+suiteXmlFile=apitests.xml
+localRepository=C\:\\Users\\anif\\.m2\\repository
